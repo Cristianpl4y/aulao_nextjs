@@ -1,0 +1,9 @@
+.classeTeste{
+    /* height: 100vh; */
+    background-color: rgb(86, 73, 146);
+    color: #eee
+}
+
+.classeTeste h1 {
+    margin: 0;
+}
